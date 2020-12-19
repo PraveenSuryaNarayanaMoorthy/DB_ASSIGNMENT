@@ -42,8 +42,8 @@ Create a local mongo db instance and create a document employeeDetails and add t
 
 To start the app
 
-Install stable version of node js
-npm init
+Install stable version of node js,
+npm init,
 node verify_data.js
 
 This will compare the details present in your db and a local file and print the results.
