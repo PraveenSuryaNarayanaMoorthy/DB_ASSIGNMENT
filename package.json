@@ -1,0 +1,16 @@
+{
+  "name": "db_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.8"
+  }
+}
